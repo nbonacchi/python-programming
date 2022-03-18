@@ -1,0 +1,33 @@
+The following audio files were obtained from Freesound.
+
+File                                                            Author                  License
+
+data-chord-11.wav                                               mtcband                 CC-BY
+
+data/no_male.wav                                                Dragunnitum             CC0
+data/yes_male.wav                                               Dragunnitum             CC0
+
+data/yes/104758__tim-kahn__yes-yes_0.wav                        tim.kahn                CC-BY
+data/yes/157506__matteusnova__the-word-yes.wav                  MatteusNova             CC-BY
+data/yes/242638__reitanna__yes-short.wav                        Reitanna                CC0
+data/yes/242640__reitanna__yesss.wav                            Reitanna                CC0
+data/yes/246307__vikuserro__yes-decisive.wav                    vikuserro               CC-BY
+data/yes/340367__daehedon__male-yes-aggressive.wav              daehedon                CC0
+data/yes/343877__reitanna__triumphant-yes-x2_0.wav              Reitanna                CC0
+data/yes/343877__reitanna__triumphant-yes-x2_1.wav              Reitanna                CC0
+data/yes/345422__artmasterrich__male-yes-01.wav                 Artmasterrich           CC0
+data/yes/71466__noisecollector__yes.wav                         NoiseCollector          CC-BY
+data/yes/ulqb8-0qyby_dragunnitum.wav                            Dragunnitum             CC0
+
+data/no/269542__allietron__no.wav                               alietron                CC0
+data/no/343891__reitanna__another-loud-no.wav                   Reitanna                CC0
+data/no/344047__reitanna__low-no.wav                            Reitanna                CC0
+data/no/345466__artmasterrich__male-nooo-02.wav                 Artmasterrich           CC0
+data/no/377738__bluesiren__disgusted-angry-ugh-no-female.wav    BlueSiren               CC0
+data/no/379496__katt16__no.wav                                  KATT16                  CC0
+data/no/431608__prucanada__no-questioning.wav                   prucanada               CC-BY
+data/no/74482__dobroide__20090617-no.wav                        dobroide                CC-BY
+data/no/hytw4-edq6s_dragunnitum.wav                             Dragunnitum             CC0
+data/no/katt16_1.wav                                            KATT16                  CC0
+
+All other audio files were recorded by the author, and are released under the MIT license.
