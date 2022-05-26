@@ -1,7 +1,10 @@
 jupyterlab
 matplotlib
+networkx
 numpy
 pandas
 scikit-learn
 scipy
 spyder
+textblob
+wordcloud
