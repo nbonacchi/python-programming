@@ -31,6 +31,9 @@ Introduction to **pandas** and dealing with tabular data.
 At the end of the course, there are notebooks starting with `extra` which over a wide range of data science topics.
 - `python-data-extra-machine-learning`, introducing machine learning with scikit-learn.
 - `python-data-extra-networks`, introducing network analysis with NetworkX.
-- `python-data-extra-regex`, which introdices regular expressions, a powerful tool for working with text data.
+- `python-data-extra-regex`, introducing regular expressions, a powerful tool for working with text data.
 - `python-data-extra-text-analysis`, introducing tools for analysing text and performing sentiment analysis (see also `python-data-extra-regex`)
 - `python-data-extra-scipy`, introducing SciPy and exploring its signal processing module.
+
+
+TODO: `python-data-extra-plotting-seaborn`, introducing seaborn package for plotting et al.
