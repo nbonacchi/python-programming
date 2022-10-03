@@ -12,10 +12,10 @@ The **requirements.txt** file has the necessary python packages for both this an
 
 Before starting you should have both [**git**](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git) and [**anaconda**](https://www.anaconda.com/products/individual) or [**miniconda**](https://docs.conda.io/en/latest/miniconda.html) installed on your machine.
 
-To install the environment select an **environment name** (e.g. *aulas*) then open a _terminal_ and substitute **\<env_name>** in the following commands with the name you selected:
+To install the environment select an **environment name** (e.g. *aulas*) then open a _terminal_ and type:
 ```bash
-$ conda create -n <env_name> python=3.9
-$ conda activate <env_name>
+$ conda create -n aulas python=3.9
+$ conda activate aulas
 $ git clone https://github.com/nbonacchi/python-programming.git
 $ cd python-programming
 $ pip install -r requirements.txt
@@ -24,7 +24,7 @@ $ pip install -r requirements.txt
 ### Launching the notebooks
 To launch the notebooks run:
 ```bash
-$ conda activate <env_name>
+$ conda activate aulas
 $ cd python-programming
 $ jupyter-lab
 ```
