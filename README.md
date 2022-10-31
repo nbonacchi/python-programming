@@ -2,10 +2,10 @@
 This repository contains the main resources for the Computer Programming course of the [Masters in Cognitive and Behavioral Neuroscience](https://www.ispa.pt/oferta-formativa/mestrado-neurociencias-cognitivas-e-comportamentais/) at [ISPA-IU](https://www.ispa.pt/)
 
 #### **python-intro**
-These worksheets will be covered in classes 2 and 3 of the course  
+These worksheets will be covered in classes 2 and 3, and 4 of the course  
 
 #### **python-data-science**
-These worksheets will be covered from class 4, onwards.  
+These worksheets will be covered from class 5, onwards.  
 
 ### Setting up the environment
 The **requirements.txt** file has the necessary python packages for both this and the python-data-science repository.
