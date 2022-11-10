@@ -2,10 +2,10 @@
 This repository contains the main resources for the Computer Programming course of the [Masters in Cognitive and Behavioral Neuroscience](https://www.ispa.pt/oferta-formativa/mestrado-neurociencias-cognitivas-e-comportamentais/) at [ISPA-IU](https://www.ispa.pt/)
 
 #### **python-intro**
-These worksheets will be covered in classes 2 and 3, and 4 of the course  
+These worksheets will be covered in the first half of the course. 
 
 #### **python-data-science**
-These worksheets will be covered from class 5, onwards.  
+These worksheets will be covered in the second half of the course.  
 
 ### Setting up the environment
 The **requirements.txt** file has the necessary python packages for both this and the python-data-science repository.
@@ -14,7 +14,7 @@ Before starting you should have both [**git**](https://git-scm.com/book/en/v2/Ge
 
 To install the environment select an **environment name** (e.g. *aulas*) then open a _terminal_ and type:
 ```bash
-$ conda create -n aulas python=3.9
+$ conda create -n aulas python=3.10
 $ conda activate aulas
 $ git clone https://github.com/nbonacchi/python-programming.git
 $ cd python-programming
