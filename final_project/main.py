@@ -10,6 +10,11 @@ import pandas as pd
 
 
 # 1. Pedir ao utilizador o nome e localização de um ficheiro de dados a analisar.
+def ask_file():
+    fname = input("Digite o nome do ficheiro: ")
+    return fname
+
+
 # 1.1 Abrir ficheiro
 def open_file(fname: str) -> pd.DataFrame:
     """Opens a fname where fname is a path to a .csv file
@@ -61,6 +66,12 @@ def covariance(vec1, vec2):
 
 def corr():
     ...
+
+
+# Visualizar resultados
+def show_results(data):
+    """Show the results of the analysis"""
+    print("Means: ", data_means(data))
 
 
 if __name__ == "__main__":
