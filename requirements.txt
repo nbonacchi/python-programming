@@ -1,4 +1,3 @@
-jupyterlab
 matplotlib
 networkx
 numpy
@@ -6,6 +5,5 @@ pandas
 seaborn
 scikit-learn
 scipy
-spyder
 textblob
 wordcloud
