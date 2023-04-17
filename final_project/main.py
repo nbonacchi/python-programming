@@ -8,6 +8,13 @@ Created on Mon Nov 14 20:13:09 2022
 import numpy as np
 import pandas as pd
 
+import pickle
+
+pickle.dump(data, open('data.pkl', 'wb'))
+
+# load file
+pickle_in = open('data.pkl', 'rb')
+pickle_data = pickle.load(pickle_in)
 
 # 1. Pedir ao utilizador o nome e localização de um ficheiro de dados a analisar.
 def ask_file():
