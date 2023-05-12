@@ -17,5 +17,5 @@ Para o módulo python-data-science:
 - python-data-3-plotting.ipynb (3 exercícios)
 - python-data-4-pandas.ipynb (6 exercícios)
 
-Os exercícios de participação deverão ser entregues por email antes do início da última aula
+Os exercícios de participação deverão ser entregues por email antes do início da última aula, a data limite para entrega do projecto final será uma semana após a ultima aula.
 NB: Os ficheiros deverão ser adicionados a um arquivo *.zip e enviados por email
