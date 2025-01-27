@@ -8,7 +8,6 @@
 
 **Conteúdo do módulo de avaliação inicial**: Enumerar palavras, Fibonacci, Jogo de adivinhação, Encontrar palavra, Potências de 2, Fazer uma escola melhor (opcional/crédito extra)
 
-
 ## **Python para ciência de dados**
 
 0. Recapitulação do curso de introdução ao python
@@ -20,8 +19,8 @@
 4. Introdução à biblioteca de pandas para análise de dados
 (Estruturas de dados, funcionalidade essencial, resumo e calculo de estatísticas descritivas, recuperação e armazenamento de dados, limpeza de dados e preparação, tratamento de dados em falta, transformação de dados
 
-
 Material extra:
+
 - Implementação do jogo da vida de Conway
 - “Machine learning” com python [Regressão linear e logística]
 - Análise de rede (networkx) usando gráficos
