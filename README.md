@@ -102,7 +102,7 @@ You should now have the necessary extensions installed. We are almost ready to r
 
 ## **Launching the notebooks**
 
-The easiest way to launch the notebooks is to use vscode.
+The easiest way to launch the notebooks is to use **vscode**.
 
 1) Open vscode and click on the *file* menu and then *open folder*.
 2) Select the folder with the course material (python-programming).
