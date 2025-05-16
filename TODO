@@ -1,0 +1,22 @@
+Test Binder
+- create binder branch
+- create runtime.txt 
+    python-3.10
+- remove jupyterlab AND Spyder dependencies from requirements.txt?
+
+- Update Moodle for classes
+- Create main.py with function placeholders for trablho final
+
+Try and launch:
+https://mybinder.org/v2/gh/nbonacchi/python-programming/binder
+
+MD
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/nbonacchi/python-programming/binder)
+
+rst
+.. image:: https://mybinder.org/badge_logo.svg
+ :target: https://mybinder.org/v2/gh/nbonacchi/python-programming/binder
+ 
+ 
+ 
+Question1: 
