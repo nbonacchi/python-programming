@@ -1,6 +1,6 @@
 from shutil import copyfileobj
 from six.moves import urllib
-from sklearn.datasets.base import get_data_home
+from sklearn.datasets import get_data_home
 import os
 
 def fetch_mnist(data_home=None):
