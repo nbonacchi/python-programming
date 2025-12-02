@@ -135,3 +135,4 @@ dmypy.json
 # Course teaching materials
 resources/
 final_project_solved.py
+.code-workspace
