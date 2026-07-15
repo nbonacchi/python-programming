@@ -1,11 +1,11 @@
 Test Binder
-- create binder branch
-- create runtime.txt 
-    python-3.10
-- remove jupyterlab AND Spyder dependencies from requirements.txt?
+- create binder branch - done
+- create runtime.txt - done
+    python-3.10 - using 3.13
+- remove jupyterlab AND Spyder dependencies from requirements.txt? - NO
 
-- Update Moodle for classes
-- Create main.py with function placeholders for trablho final
+- Update Moodle for classes - done
+- Create main.py with function placeholders for trabalho final - done
 
 Try and launch:
 https://mybinder.org/v2/gh/nbonacchi/python-programming/binder
