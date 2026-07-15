@@ -136,3 +136,4 @@ dmypy.json
 resources/
 final_project_solved.py
 .code-workspace
+live_coding/
