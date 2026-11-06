@@ -1,5 +1,10 @@
 # **Avaliação**
 
+UC: **Programaçãao de Computadfore em Neurociências Cognitivas e Comportamentais**
+- Projeto final: 60%
+- Participação: 40%
+
+UC: **Seminário de Introdução à Programação**
 - Projeto final: 90%
 - Participação: 10%
 
